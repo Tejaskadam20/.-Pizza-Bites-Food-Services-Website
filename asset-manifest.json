@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/burgrill/static/css/main.1faa1f3a.css",
-    "main.js": "/burgrill/static/js/main.629c0f49.js",
-    "static/media/Jelly.otf": "/burgrill/static/media/Jelly.8996d1da422ae52622d1.otf",
-    "index.html": "/burgrill/index.html",
-    "main.1faa1f3a.css.map": "/burgrill/static/css/main.1faa1f3a.css.map",
-    "main.629c0f49.js.map": "/burgrill/static/js/main.629c0f49.js.map"
+    "main.css": "/.-Pizza-Bites-Food-Services-Website/static/css/main.261ebdf1.css",
+    "main.js": "/.-Pizza-Bites-Food-Services-Website/static/js/main.629c0f49.js",
+    "static/media/Jelly.otf": "/.-Pizza-Bites-Food-Services-Website/static/media/Jelly.8996d1da422ae52622d1.otf",
+    "index.html": "/.-Pizza-Bites-Food-Services-Website/index.html",
+    "main.261ebdf1.css.map": "/.-Pizza-Bites-Food-Services-Website/static/css/main.261ebdf1.css.map",
+    "main.629c0f49.js.map": "/.-Pizza-Bites-Food-Services-Website/static/js/main.629c0f49.js.map"
   },
   "entrypoints": [
-    "static/css/main.1faa1f3a.css",
+    "static/css/main.261ebdf1.css",
     "static/js/main.629c0f49.js"
   ]
 }
