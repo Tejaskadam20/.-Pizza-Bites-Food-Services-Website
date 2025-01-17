@@ -1,13 +1,188 @@
-body {
+body 
+{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: #FFBD73;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.brandname
+{
+  background-color: #FFBD73;
+  padding: 20px;
+  text-align: center;
+  font-family:sans-serif;
+
 }
+#tagline
+{
+  margin-top: -10px;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+}
+
+ul
+{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  background-color: #333;
+  width: 100%;
+  overflow: hidden;
+  margin-top: -20px;
+}
+li 
+{
+  float: left;
+}
+
+li a 
+{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+li a:hover
+{
+  color: #000123;
+  text-decoration: none;
+  background-color: gold;
+}
+
+.row 
+{
+  margin-top: 30px;
+}
+
+.card
+{
+  box-shadow: 0px 5px 10px rgba(0, 0, 0,0.5);
+  transition: 0.3s;
+  border-top: 20px solid white;
+  border-radius: 10px 10px 0px 0px;
+}
+.card:hover
+{
+  box-shadow: 0px 10px 20px rgba(0, 0, 0,0.5);
+}
+.cardcontainer
+{
+  padding: 4px 50px;
+  background-color: white;
+  padding-bottom: 20px;
+}
+button
+{
+  background-color: #0B192C;
+  padding: 5px 15px;
+  border-radius: 20px;
+  border: none;
+  color: white;
+
+}
+
+button:hover
+{
+  color: white;
+  cursor: pointer;
+}
+@font-face
+{
+  font-family: myfont;
+  src: url(Jelly.otf);
+}
+span
+{
+  font-family: myfont;
+  font-style: italic;
+  font-weight: bold;
+  color: #432E54;
+}
+.well
+{
+  background-color: #FFBD73;
+}
+
+.cards
+{
+  box-shadow: 0px 5px 10px rgba(0, 0, 0,0.5);
+  transition: 0.3s;
+  border-top: 20px solid white;
+  border-radius: 10px 10px 0px 0px;
+  background-color: ;
+}
+.cards:hover
+{
+  box-shadow: 0px 10px 20px rgba(0, 0, 0,0.5);
+}
+
+.celebration
+{
+  box-shadow: 0px 5px 10px rgba(0, 0, 0,0.5);
+  transition: 0.3s;
+  border-top: 40px solid gold;
+  border-radius: 10px 10px 0px 0px;
+  background-color: ;
+}
+.celebration:hover
+{
+  box-shadow: 0px 10px 20px rgba(0, 0, 0,0.5);
+}
+.cardcontainer
+{
+  padding: 4px 50px;
+  background-color: white;
+  padding-bottom: 20px;
+}
+.fname
+{
+  background-color: #243642;
+  padding: 10px;
+
+}
+.fnamestyle
+{
+  font-family: serif;
+  
+}
+.images
+{
+  background-color: white;
+  border: 2px dotted black;
+  
+  
+}
+.img img-circle
+{
+ background-color: black;
+}
+.forms
+{
+  
+  width: 50%;
+  margin-left: 25%;
+  background-color: #FFE5CF;
+  margin-top: 10px;
+}
+
+#aboutus,#burgers,#pizza,#combooffer,#branches,#events,#contactus,#footer,#franchise
+{
+  
+  
+  font-family: Arial;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+  margin-top: 50px;
+  padding-bottom: 70px;
+}
+#footer
+{
+  background-color: #33372C;
+  color: white;
+}
+.question1
+{
+  color: red;
+}
+
