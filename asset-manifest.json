@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/burgrill/static/css/main.1faa1f3a.css",
+    "main.js": "/burgrill/static/js/main.629c0f49.js",
+    "static/media/Jelly.otf": "/burgrill/static/media/Jelly.8996d1da422ae52622d1.otf",
+    "index.html": "/burgrill/index.html",
+    "main.1faa1f3a.css.map": "/burgrill/static/css/main.1faa1f3a.css.map",
+    "main.629c0f49.js.map": "/burgrill/static/js/main.629c0f49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1faa1f3a.css",
+    "static/js/main.629c0f49.js"
+  ]
+}
